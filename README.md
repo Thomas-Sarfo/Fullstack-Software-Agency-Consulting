@@ -5,7 +5,7 @@
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)  
 ![Firebase](https://img.shields.io/badge/Auth-Firebase-orange?logo=firebase)  
 ![Stripe](https://img.shields.io/badge/Payments-Stripe-blueviolet?logo=stripe)  
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+
 
 A **fullstack software agency web application** built with React, Node.js, MongoDB, and Firebase.  
 It includes authentication, payments, and an admin dashboard — providing a scalable foundation for modern web applications.  
